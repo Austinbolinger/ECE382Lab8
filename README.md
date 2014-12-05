@@ -33,3 +33,5 @@ The pins I chose are important. As you can see below, they line up with A3, A4, 
 
 ####Psuedo Code
 The robot will start at the home spot. The left sensor will only look for a wall closer than 2 inches. The right sensor will be the main sensor. The robot will look for the RIGHT wall at all times. It will keep the right wall within 2 and 3 inches. I will ask it to adjust the right wheel or left wheel accordingly to keep it on the right wall. The robot will move forward until the front sensor senses a wall. When it senses a wall. I will look to see if there is a right wall or not. If there is a right wall and front wall, turn left 90 degrees. If there is no right wall and there is a front wall turn right 90 degrees. Notice how the red line is drawn close to the right wall. This is understanding for door 3. 
+
+![Psuedo Code](https://github.com/Austinbolinger/ECE382Lab8/blob/master/psuedoCode.JPG?raw=true "psuedo Code" )
