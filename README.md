@@ -23,3 +23,10 @@ This is what the MSP430 looks like in picture form.
 The pins I chose are important. As you can see below, they line up with A3, A4, & A5 which will be used in the coding.
 
 ![MSP430 diagram]( https://github.com/Austinbolinger/ECE382Lab7/blob/master/MSP430diagram.JPG?raw=true "MSP430 diagram" )
+
+**Maze**
+
+![Maze]( https://github.com/Austinbolinger/ECE382Lab8/blob/master/maze.JPG?raw=true "maze" )
+
+####Psuedo Code
+The robot will start at the home spot. The left sensor will only look for a wall closer than 2 inches. The right sensor will be the main sensor. The robot will look for 
