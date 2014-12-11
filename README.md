@@ -56,6 +56,7 @@ The A functionality asked the robot to go through the maze and exit door 3. I di
 ####Debuggin Functionality
 https://github.com/Austinbolinger/ECE382Lab8/tree/master/lab7Doesitwork
 
+The first problem identified was sensor readings. I started with a simple if statement. I coded if my middle sensor reading was this hex value, then make the wheels move forward or else stop. I did this with all of the sensors in order to calibrate the sensors one at a time. I decided to originally go with just 3 thresholds, one for each sensor. I soon learned that the sensors changed dramatically when the lighting changed just a little. If the lights were all on or just a few on, if someone walked by or sat down, if the sensors where pointing in a different 
 
 #### Documentation
 
