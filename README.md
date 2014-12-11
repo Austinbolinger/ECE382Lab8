@@ -39,18 +39,22 @@ The robot will start at the home spot. The left sensor will only look for a wall
 ##Lab
 
 ####Functionality
+The required functionality for this lab needed to exit through door 1. To do this I spent many a hours on trying to figure out my algorithm and troubleshooting my robots problems.
+
+5 different algo.
+sensor issues
+cascading 
+sensor resistor
+
 
 ####B Functionality
+The B functionality asked the robot to go through the maze and exit door two. I could not do this because my front sensor was not working. Without the front sensor, my robot would run into walls. It is near impossible to code something to follow walls if there is going to eventually be a wall in front of it.
 
 ####A Functionality
-
+The A functionality asked the robot to go through the maze and exit door 3. I did not even attempt this without a front sensor.
 
 ####Debuggin Functionality
-
-####Debuggin B Functionality
-
-
-####Debuggin A Functionality
+https://github.com/Austinbolinger/ECE382Lab8/tree/master/lab7Doesitwork
 
 
 #### Documentation
